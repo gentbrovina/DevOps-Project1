@@ -1,0 +1,9 @@
+1.In this Project is set up an AWS Cloud Infrastructure 
+
+2.For cloud architecture we used Terraform as Iac 
+
+3.We have applied services for Networking, Compute, Databases, Monitoring
+
+4.Our application is gonna be build as a Docker Image and be pushed in ECR repo.
+
+5.After pushin the image we are gonna deploy in ECS as Containers. 
